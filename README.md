@@ -1,7 +1,7 @@
 
   
-# Vietnamese-scene-text-recognition
-This is the solution that ranked 6th in [AI Challenge 2021] (https://aichallenge.hochiminhcity.gov.vn)
+# AIC2021 - Vietnamese Scene Text Recognition
+Incentive Award at [AI Challenge 2021] (https://aichallenge.hochiminhcity.gov.vn)
 
 ## Table of content
 ### [Vietnamese-scene-text-recognition](#vietnamese-scene-text-recognition)
